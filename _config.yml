@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko"
 title                    : "Suni의 개발 블로그"
-title_separator          : ""
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Suni DevBlog"
 description              : "Suni의 개발 블로그"
-url                      : "https://SuniDev.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sunidev.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "SuniDev/SuniDev.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "sunidev-github-io-1" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : sunidev-github-io-1 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -97,48 +97,48 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "iOS개발 3년차 / 주니어 개발자"
   location         : "Seoul, Korea"
-  email            :
+  email            : "mailto:sun-918@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:sun-918@naver.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: "mailto:sun-918@naver.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
        url: "https://github.com/sunidev.github.io"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
        url: "https://github.com/sunidev.github.io"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
+#      # url:
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
+#      # url:
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url:
 
 
 # Reading Files
