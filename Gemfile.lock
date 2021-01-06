@@ -89,6 +89,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.5)
+  jekyll-feed
+  jekyll-sitemap
   kramdown-parser-gfm
   minimal-mistakes-jekyll
 
