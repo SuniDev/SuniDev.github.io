@@ -22,7 +22,7 @@ SceneDelegate를 사용하지 않고 iOS App을 빌드하는 방법입니다.<br
 
 ## 1. 프로젝트 생성
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210106/remove-scenedelegate1.PNG){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210106/remove-scenedelegate1.png){: .align-center}
 
 File > New > Project 에서 iOS > App을 선택하고
 Interface를 Storyboard로 지정하여 프로젝트를 생성합니다.
@@ -31,7 +31,7 @@ Interface를 Storyboard로 지정하여 프로젝트를 생성합니다.
 
 ## 2. SceneDelegate.swift 파일 삭제
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210106/remove-scenedelegate2.PNG){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210106/remove-scenedelegate2.png){: .align-center}
 
 SceneDelegate.swift 파일을 삭제합니다.
 
@@ -39,7 +39,7 @@ SceneDelegate.swift 파일을 삭제합니다.
 
 ## 3. info.plist > Application Scene Manifest 삭제
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210106/remove-scenedelegate3.PNG){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210106/remove-scenedelegate3.png){: .align-center}
 
 info.plist 에서 Application Scene Manifest를 삭제합니다.
 
@@ -47,7 +47,7 @@ info.plist 에서 Application Scene Manifest를 삭제합니다.
 
 ## 4. AppDelegate.swift 수정
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210106/remove-scenedelegate4.PNG){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210106/remove-scenedelegate4.png){: .align-center}
 
 AppDelegate.swift 에서 window 변수를 선언합니다.
 
