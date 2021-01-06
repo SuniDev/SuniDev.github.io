@@ -1,3 +1,3 @@
 ser-agent: *
 Allow: /
-Sitemap: http://sunidev.github.io/sitemap.xml
+Sitemap: https://sunidev.github.io/sitemap.xml
