@@ -1,0 +1,3 @@
+ser-agent: *
+Allow: /
+Sitemap: http://sunidev.github.io/sitemap.xml
