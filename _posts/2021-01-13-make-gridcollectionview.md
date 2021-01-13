@@ -7,7 +7,7 @@ categories:
 tags:
   - iOS
   - Swift
-  - CollectionView
+  - UICollectionView
 toc: true
 ---
 
