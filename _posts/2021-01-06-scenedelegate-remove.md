@@ -51,8 +51,10 @@ info.plist 에서 Application Scene Manifest를 삭제합니다.
 
 AppDelegate.swift 에서 window 변수를 선언합니다.
 
+
+```swift
 var window: UIWindow?
-{: .notice--primary}
+```
 
 그리고 SceneDelegate의 UISceneSession Lifecycle 관련 함수들을 지워줍니다.
 
