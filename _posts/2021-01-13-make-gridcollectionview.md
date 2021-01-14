@@ -28,14 +28,14 @@ CollectionView의 AutoLayout 을 설정합니다.
 
 <br>
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210113/make-gridcollectionview-sb3.png){: .align-center}
-Collection View >  ![image]({{ site.url }}{{ site.baseurl }}/assets/images/210113/icon2.png) > delegate, dataSource 를 설정합니다.
+Collection View >  ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon2.png) > delegate, dataSource 를 설정합니다.
 
 <br>
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210113/make-gridcollectionview-sb5.png){: .align-center}
-Collection View > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/210113/icon1.png) > Estimate Size를 None 으로 설정합니다.
+Collection View > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon1.png) > Estimate Size를 None 으로 설정합니다.
 <br>
 
-저는 Cell 사이에 구분을 명확히하기 위해 Collection View > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/210113/icon3.png) > Background 색상을 변경하였습니다.
+저는 Cell 사이에 구분을 명확히하기 위해 Collection View > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon3.png) > Background 색상을 변경하였습니다.
 {: .notice--primary}
 
 <br>
@@ -60,11 +60,11 @@ Class 명을 원하는 명으로 바꾼 뒤 Next 를 클릭합니다.
 ## 3. Storyboard 에서 Cell 설정
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210113/make-gridcollectionview-cell4.png){: .align-center}
-Storyboard > Collection View Cell >  ![image]({{ site.url }}{{ site.baseurl }}/assets/images/210113/icon4.png) > Custom Class > Class 에 Cell 의 클래스명을 입력합니다.
+Storyboard > Collection View Cell >  ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon4.png) > Custom Class > Class 에 Cell 의 클래스명을 입력합니다.
 
 <br>
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210113/make-gridcollectionview-cell5.png){: .align-center}
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/210113/icon3.png) > Collection Reusable View > Identifier 에 Cell 의 클래스명을 입력합니다.
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon3.png) > Collection Reusable View > Identifier 에 Cell 의 클래스명을 입력합니다.
 
 ## 4. GridCollectionViewCell.swift
 
