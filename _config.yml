@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Suni"
-  avatar           : "/assets/images/profile.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "iOS개발 3년차 / 주니어 개발자"
   location         : "Seoul, Korea"
   email            : "mailto:sun-918@naver.com"
