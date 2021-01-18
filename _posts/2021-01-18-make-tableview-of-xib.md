@@ -57,7 +57,7 @@ FruitCell.xib > cell을 원하는 형태로 커스텀합니다.
 
 <br>
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210118/make-tableview-of-xib-xib2.png){: .align-center}
-FruitCell 선택 > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon-attribute.PNG) 선택 > identifier에 cell의 클래스명을 입력합니다.
+FruitCell 선택 > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon-attribute.png) 선택 > identifier에 cell의 클래스명을 입력합니다.
 
 
 ## 4. FruitCell.swift
@@ -131,7 +131,7 @@ Table View Cell의 Default설정은 위와 같이 Cell을 선택하면 하이라
 
 <br>
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210118/make-tableview-of-xib-tip1.png){: .align-center}
-cell.xib > Cell 선택 > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon-attribute.PNG) > Selection을 None으로 선택합니다.
+cell.xib > Cell 선택 > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon-attribute.png) > Selection을 None으로 선택합니다.
 
 
 ## 프로젝트 소스 GitHub
