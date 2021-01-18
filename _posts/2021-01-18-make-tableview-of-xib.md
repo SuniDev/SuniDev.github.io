@@ -29,7 +29,7 @@ Table View의 AutoLayout을 설정합니다.
 <br>
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210118/make-tableview-of-xib-sb3.png){: .align-center}
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210118/make-tableview-of-xib-sb4.png){: .align-center}
-Table View >  ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon-autolayout.PNG) > delegate, dataSource 를 설정합니다.
+Table View >  ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon-connection.png) > delegate, dataSource 를 설정합니다.
 
 
 ## 2. UITableViewCell 클래스 생성
