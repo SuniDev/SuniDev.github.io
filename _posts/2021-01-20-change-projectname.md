@@ -97,3 +97,7 @@ Targets > 프로젝트 선택 > General > Bundle Identifier 수정
 
 [ProjectName]Tests 와 [ProjectName]UITests 수정도 프로젝트 이름 수정과 같은 방법으로 해주시면 됩니다!
 {: .notice--primary}
+
+<br><br>
+**참고**<br>
+[iOS ) Xcode 프로젝트 이름 바꾸는 방법](https://zeddios.tistory.com/286)
