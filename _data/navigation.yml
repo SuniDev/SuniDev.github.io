@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "ISSUENOTE"
+    url: /issue-note/
   - title: "ARCHIVE"
     url: /year-archive/
   - title: "TAG"
