@@ -20,7 +20,9 @@ toc: true
 
 
 ## 이번 글은 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210405/make-customintro-of-navi-sample.gif){: .align-center}
+<video width="300" controls>
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/210405/make-customintro-of-navi-sample.mp4" type="video/mp4">
+</video>
 UINavigationController를 사용하여 Custom Intro를 만드는 방법입니다.
 해당 포스팅은 Storyboard intreface 기반 Swift 프로젝트입니다.
 <br><br>
