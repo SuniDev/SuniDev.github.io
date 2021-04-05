@@ -54,7 +54,7 @@ Intro.storyboard에 ViewController를 추가하여<br>
 <br>
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210405/make-customintro-of-navi-introvc3.png){: .align-center}
-Intro.storybaord > ViewController 선택 > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon4-white.png) > Custom Class > IntroVC 입력 <br>
+Intro.storybaord > ViewController 선택 > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/210405/icon4-white.png) > Custom Class > IntroVC 입력 <br>
 Identity > Storyboard ID > IntroVC 입력<br>
 Use Storyboard ID를 체크합니다.
 <br><br>
@@ -123,7 +123,7 @@ Main.storyboard에 메인 화면을 원하는 대로 커스텀 합니다.
 메인 화면 기능을 수행해 줄 UIViewController를 상속받는 MainVC 클래스를 생성합니다.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210405/make-customintro-of-navi-mainvc3.png){: .align-center}
-Main.storybaord > ViewController 선택 > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/icon/icon4-white.png) > Custom Class > MainVC 입력 <br>
+Main.storybaord > ViewController 선택 > ![image]({{ site.url }}{{ site.baseurl }}/assets/images/210405/icon4-white.png) > Custom Class > MainVC 입력 <br>
 Identity > Storyboard ID > MainVC 입력<br>
 Use Storyboard ID를 체크합니다.
 <br><br>
