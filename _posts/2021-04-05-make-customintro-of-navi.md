@@ -181,3 +181,7 @@ IntroVC.swift > viewDidLoad() 내에서 메인 화면 이동 함수를 호출합
 {: .notice--primary}
 
 <br><br>
+
+
+## 프로젝트 소스 GitHub
+[SNIntro 다운받으러 가기](https://github.com/SuniDev/SNIntro)
