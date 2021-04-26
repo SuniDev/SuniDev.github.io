@@ -1,5 +1,5 @@
 ---
-title: "[Xcode] SceneDelegate 삭제하고 App Build"
+title: "[iOS/Xcode] SceneDelegate 삭제하고 App Build"
 header:
   teaser: ""
 categories:

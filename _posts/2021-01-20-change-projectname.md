@@ -1,5 +1,5 @@
 ---
-title: "[Xcode] Project Name 변경하기"
+title: "[iOS/Xcode] Project Name 변경하기"
 header:
   teaser: ""
 categories:
