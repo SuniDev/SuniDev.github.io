@@ -420,7 +420,7 @@ BasePopVC에 btnCompleteProssed Action을 연결합니다.<br>
 let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
 let popVC = storyBoard.instantiateViewController(withIdentifier: "SNPopVC") as! SNPopVC
 
-popVC.showAnim(vc: self, type: .fadeInOut, parentAddView: self.view) { }
+popVC.showAnim(vc: self, type: .move, position: .bottom, parentAddView: self.view) { }
 ~~~
 
 <br><br>
