@@ -7,8 +7,6 @@ categories:
 tags:
   - iOS
   - Swift
-  - Animation
-  - Popup
 toc: true
 ---
 

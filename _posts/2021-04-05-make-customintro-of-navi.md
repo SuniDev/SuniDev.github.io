@@ -7,7 +7,6 @@ categories:
 tags:
   - iOS
   - Swift
-  - Intro
   - UINavigationController
 toc: true
 ---

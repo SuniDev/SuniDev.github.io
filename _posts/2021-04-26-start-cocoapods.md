@@ -8,7 +8,6 @@ tags:
   - iOS
   - Xcode
   - CocoaPods
-  - podfile
 toc: true
 ---
 

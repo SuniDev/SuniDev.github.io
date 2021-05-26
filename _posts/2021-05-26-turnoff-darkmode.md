@@ -4,11 +4,11 @@ header:
   teaser: ""
 categories:
   - iOS
+  - ISSUENOTE
 tags:
   - iOS
   - Swift
   - DarkMode
-  - LigthMode
 toc: true
 ---
 

@@ -8,7 +8,6 @@ tags:
   - iOS
   - Swift
   - UIWindow
-  - Extension
 toc: true
 ---
 
