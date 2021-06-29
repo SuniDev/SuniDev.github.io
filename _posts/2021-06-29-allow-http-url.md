@@ -4,6 +4,7 @@ header:
   teaser: ""
 categories:
   - iOS
+  - ISSUENOTE
 tags:
   - iOS
   - Xcode
