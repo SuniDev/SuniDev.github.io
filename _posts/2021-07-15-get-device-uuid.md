@@ -51,7 +51,7 @@ Utils.getDeviceUUID()
 필요한 곳 어디서든 생성한 함수를 호출하여 사용합니다.<br><br>
 
 
-## 3. Notice
+## 3. notice
 
 uuid는 앱을 삭제하면 새롭게 생성 됩니다. <br>
 앱을 재설치해도 고유한 번호가 필요한 경우, 최초 uuid 생성 시점에 keychain에 저장하는 방법을 사용하세요.
