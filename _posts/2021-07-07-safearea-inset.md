@@ -94,7 +94,7 @@ class Utils {
     }
 }
 ```
-공통적으로 사용하는 UI 관련 변수 및 함수들을 Utils 라는 공통 클래스를 생성하여 관리하는 예시입니다.. <br>
+공통적으로 사용하는 변수 및 함수들을 Utils 라는 공통 클래스를 생성하여 관리하는 예시입니다. <br>
 
 ```swift
 Utils.safeAreaTopInset()        
