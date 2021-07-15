@@ -12,8 +12,9 @@ tags:
 toc: true
 ---
 
+iOS4까지는 iOS기기의 고유 넘버로 udid를 사용하였으나, 개인정보 문제로 iOS5부터는 udid가 사라지고 uudi(임의로 생성한 고유값)를 사용합니다. <br><br>
+
 ## 이번 글은 
-iOS4까지는 iOS기기의 고유 넘버로 udid를 사용하였으나, 개인정보 문제로 iOS5부터는 udid가 사라지고 uudi(임의로 생성한 고유값)를 사용합니다. <br>
 디바이스 고유넘버(device uuid)를 구하는 방법입니다.<br><br>
 
 ## 1. uuidString
