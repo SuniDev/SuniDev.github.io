@@ -67,7 +67,7 @@ class Utils {
     
     /**
      # safeAreaTopInset
-     - Note: 현재 디바이스의 safeAreaTopInset값을 리턴하는 함수
+     - Note: 현재 디바이스의 safeAreaTopInset값을 반환하는 함수
      */
     static func safeAreaTopInset() -> CGFloat {
         if #available(iOS 11.0, *) {
@@ -81,7 +81,7 @@ class Utils {
     
     /**
      # safeAreaBottomInset
-     - Note: 현재 디바이스의 safeAreaBottomInset값을 리턴하는 함수
+     - Note: 현재 디바이스의 safeAreaBottomInset값을 반환하는 함수
      */
     static func safeAreaBottomInset() -> CGFloat {
         if #available(iOS 11.0, *) {

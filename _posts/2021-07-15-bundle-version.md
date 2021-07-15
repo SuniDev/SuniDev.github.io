@@ -32,7 +32,7 @@ class Utils {
 
     /**
      # version
-     - Note: 현재 번들 버전 반환
+     - Note: 현재 번들 버전을 반환하는 함수
      */
     static func version() -> String {
         return Bundle.main.infoDictionary!["CFBundleShortVersionString"] as! String
@@ -42,6 +42,6 @@ class Utils {
 공통적으로 사용하는 변수 및 함수들을 Utils 라는 공통 클래스를 생성하여 관리하는 예시입니다. <br>
 
 ```swift
-    Utils.version()
+Utils.version()
 ```
 필요한 곳 어디서든 생성한 함수를 호출하여 사용합니다.<br><br>
