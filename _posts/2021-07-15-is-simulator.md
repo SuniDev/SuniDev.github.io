@@ -35,7 +35,7 @@ class Utils {
     /**
      # isSimulator
      - Returns: Bool
-     - Note: 시뮬레이터 구동 여부를 반환하는 함수.
+     - Note: 시뮬레이터 구동 여부 반환
      */
     static func isSimulator() -> Bool {
         return ProcessInfo.processInfo.environment["SIMULATOR_DEVICE_NAME"] != nil

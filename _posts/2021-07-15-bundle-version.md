@@ -32,7 +32,7 @@ class Utils {
 
     /**
      # version
-     - Note: 현재 번들 버전을 반환하는 함수
+     - Note: 현재 번들 버전 반환
      */
     static func version() -> String {
         return Bundle.main.infoDictionary!["CFBundleShortVersionString"] as! String

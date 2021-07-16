@@ -36,7 +36,7 @@ class Utils {
 
     /**
      # getDeviceUUID
-     - Note: 디바이스 고유 넘버를 반환하는 함수
+     - Note: 디바이스 고유 넘버 반환
      */
     static func getDeviceUUID() -> String {
         return UIDevice.current.identifierForVendor!.uuidString
