@@ -20,7 +20,7 @@ title                    : "수니의 개발블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "수니의 개발블로그"
-description              : "iOS 개발자의 개발 일지"
+description              : "블로그 이전했어요! 수니의 도전 보러가기 -> https://sunidev.tistory.com/"
 url                      : "https://sunidev.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "SuniDev/SuniDev.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Suni"
   avatar           : "/assets/images/profile.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS개발 3년차 / 주니어 개발자"
+  bio              : "블로그 이전했어요! 수니의 도전 보러가기 -> https://sunidev.tistory.com/"
   location         : "Seoul, Korea"
   email            : "mailto:sun-918@naver.com"
   links:
